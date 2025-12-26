@@ -1,4 +1,4 @@
-👋 Hi, I'm Mohammad Imran Khan
+#👋 Hi, I'm Mohammad Imran Khan
 
 Software Technical Expert with 11+ years of experience building high-performance, distributed, real-time systems.  
 Core expertise in C++/Java, multithreading, event-driven architectures, and cloud-native delivery on Kubernetes & AWS.  
