@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=mohakhan03&style=flat-square)
 # 👋 Hi, I'm Mohammad Imran Khan
 
 Software Technical Expert with 11+ years of experience building high-performance, distributed, real-time systems.  
@@ -53,3 +54,4 @@ Currently working on large-scale charging platforms with a strong focus on relia
 ### 🔗 Connect
 - LinkedIn: https://www.linkedin.com/in/mohaimran/
 - Email: imran14989@gmail.com
+
