@@ -1,9 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=mohakhan03&style=flat-square)
 # Hi, I'm Mohammad Imran Khan
 
-Software Technical Expert with 11+ years of experience building high-performance, distributed, real-time systems.  
-Core expertise in C++/Java, multithreading, event-driven architectures, and cloud-native delivery on Kubernetes & AWS.  
-Currently working on large-scale charging platforms with a strong focus on reliability, performance, and scalability.
+AI Tech Lead and distributed systems engineer with 11+ years of experience building mission-critical telecom billing and
+monetization platforms where latency, uptime, and consistency are product-critical. Strong record across architecture, hands-on
+C++/Java engineering, AWS migration, Kubernetes platforms, active-active resiliency, and production performance engineering.
+
+Delivered production designs and performance improvements for high-availability distributed systems, including 4-site active-active
+deployment, 70-80% faster recovery, 60% fewer event conflicts, sub-50ms replica lag, and 30% higher JVM throughput. Owns
+customer-facing architecture from high-level design and technical reviews through development, testing, rollout, and successful go-live.
+
 
 ---
 
