@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=mohakhan03&style=flat-square)
 # Hi, I'm Mohammad Imran Khan
 
-AI Tech Lead and distributed systems engineer with 11+ years of experience building mission-critical telecom billing and
+AI Tech Lead and distributed systems engineer with 11+ years of experience building mission-critical real-time event processing and
 monetization platforms where latency, uptime, and consistency are product-critical. Strong record across architecture, hands-on
 C++/Java engineering, AWS migration, Kubernetes platforms, active-active resiliency, and production performance engineering.
 
