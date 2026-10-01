@@ -20,7 +20,8 @@ customer-facing architecture from high-level design and technical reviews throug
 - Cloud-native systems on Kubernetes (EKS) & AWS
 - Production reliability, RCA, and system observability
 - Infrastructure as Code (IaC)
-- Telecom billing platforms at scale (11+ years)
+- Real-time event processing for telecom billing platforms at scale
+- Efficient use of in-memory data grids, Memcache, Redis
 - GenAI & agent engineering: RAG, tool-calling agents, LangChain/LangGraph, MCP
 - AI Tech Lead: taking AI systems from prototype to production
 ---
