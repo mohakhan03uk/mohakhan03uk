@@ -67,7 +67,7 @@ customer-facing architecture from high-level design and technical reviews throug
 ---
 
 ### Engineering Interests
-- GenAI, Agents etc
+- GenAI, Agentic Development and Observability 
 - Distributed coordination & consistency
 - Event-driven systems and streaming platforms
 - Stateless microservices and horizontal scaling
